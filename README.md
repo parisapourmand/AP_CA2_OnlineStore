@@ -1,6 +1,9 @@
 # AP_CA2_OnlineStore
 Online Store in C++
+
+
 Commands:
+
 add_user <first_name> <last_name> <username> <phone_number> <money> <seller | buyer>
 
 addـgoods <seller_username> <goods_name> <goods_price> <goods_count>
